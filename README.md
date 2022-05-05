@@ -7,14 +7,14 @@
 Crypto Tools 101 is the first part in a series of tutorials designed to teach crypto concepts in a simulated environment. In this tutorial, your goal is to complete the tasks and become a Fully Qualified Tool. 
 
 ### Polygon Chain
-This workshop involves a set of smart contracts pre-deployed on the Polygon Network.  The native token of the Polygon Network is MATIC.  
+This workshop involves a set of smart contracts pre-deployed on the Polygon Network.  The native token of the Polygon Network is MATIC. 
 
-### BUCKS
-Each smart contract is an exercice/puzzle - which teaches you some feature . 
-Completing the first exercice will credit you with an NFT.  The exercises that follow, will credit you with points, in the form of an [ERC20 token](contracts/token/TDERC20.cairo).
+### CryptoTools
+You work at a company called CryptoTools.  Completing Level 0 will credit you with an NFT
 
-### Checking your progress
--   Go to the  [ERC20](https://...)  in blockscout, ...
+### TOOLS
+Completing the rest of the Levels  will credit you with TOOLS - a company scrip in the form of an [ERC20 token](contracts/token/TDERC20.cairo).
+
 
 ## Level 0 - Opening the Tool Box
 Install mobile versions of Metamask and Discord from the Android or iOS App Stores. 
