@@ -12,10 +12,10 @@ All tokens are valueless.
 This workshop involves a set of smart contracts pre-deployed on the Polygon Network.  The native token of the Polygon Network is MATIC. You will receive a few cents worth of MATIC after completing Level 0. 
 
 ### BUCKS
-Completing Levels 1 to #  will credit you with BUCKS - a ficticious currency in the form of an [ERC20 token](contracts/token/TDERC20.cairo).
+Completing Levels 0 to 3  will credit you with BUCKS - a (ficticious) currency in the form of an [ERC20 token](contracts/token/TDERC20.cairo).
 
 ### CryptoTool NFT
-Completing Level 1 will also credit you with a CryptoTool NFT - the proof of employment with Crypto Tools Pty Ltd. 
+Completing Level 1 will also credit you with a cryptoTool NFT - a proof of (fictitious) employment credential in the form of an ERC-721 token. 
 
 ## Level 0 - Opening the Tool Box
 Install mobile versions of Metamask and Discord from the Android or iOS App Stores. 
