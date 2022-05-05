@@ -4,7 +4,6 @@
 Complete the exercises, get tokens, join TutorialDAO and learn about crypto! 
 ​
 ## Introduction
-​
 ### Gnosis Chain
 This workshop involves a set of smart contracts pre-deployed on the Gnosis Network.  The Gnosis Network aims to be Ethereum's Canary Network. 
 
@@ -14,7 +13,6 @@ Completing the first exercice will credit you with an NFT.  The exercises that f
 
 ### Checking your progress
 -   Go to the  [ERC20](https://...)  in blockscout, ...
-​
 ## Exercises
 
 ### Exercise 0 - Opening the Tool Box
@@ -25,15 +23,26 @@ You will need to install Metamask for Android or iOS in order to follow and comp
 **xDAI Faucet** -->
 You will need to request...
 
-## Exercise 1 - Joining the Club
-The NFT is your membership card to TutorialDAO. 
+### Exercise 1 - Testing the Tools
+Membership to the TutorialDAO is limited to holders of the TutorialDAO NFT. 
+
+### Exercise 2 - Building the DAO
+A DAO is a human coordination mechanism. While the smart contract infrastructure for the DAO has been pre-deployed, it is not a DAO without people. 
+
+**TutorialDAO Discord** 
+--> You must access the members only channels in the TutorialDAO Discord [TutorialDAO Discord Server](https://discord.gg/...).
 
 
 ### Snapshot
 
+
 ### Discord
-Join our [Discord server](https://discord.gg/B7PevJGCCw), register and join channel #tutorials-support
-​
+
+​vv
+
+### Snapshot
+
+
 ### Twitter
 ​
 ## Getting started
