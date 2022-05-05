@@ -1,5 +1,5 @@
 # Crypto Tools 101
-**Learn the tools of the crypto trade.** Journey down the rabbit hole with this hands-on tutorial. 
+Journey down the rabbit hole with this hands-on tutorial. Learn the tools of the crypto trade. 
 
 
 ## Introduction
@@ -14,11 +14,11 @@ This workshop involves a set of smart contracts pre-deployed on the Polygon Netw
 ### BUCKS
 Completing Levels 0 to 3  will credit you with BUCKS - a (ficticious) currency in the form of an [ERC20 token](contracts/token/TDERC20.cairo).
 
-### CryptoTool NFT
-Completing Level 1 will also credit you with a cryptoTool NFT - a proof of (fictitious) employment credential in the form of an ERC-721 token. 
+### cryptoTool NFT
+Completing Level 1 will also credit you with a cryptoTool NFT - a (fictitious) proof of employment with Crypto Tools Pty Ltd in the form of an ERC-721 token. 
 
 ## Level 0 - Opening the Tool Box
-Install mobile versions of Metamask and Discord from the Android or iOS App Stores. 
+You want to apply for a role with Crypto Tools Pty Ltd.  Employees need their own tools. Install the mobile versions of 'Metamask' and 'Discord' from the Android or iOS App Stores. 
 
 Tools and Tasks:
 
