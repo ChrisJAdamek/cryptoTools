@@ -6,14 +6,16 @@
 
 Crypto Tools 101 is the first part in a series of tutorials designed to teach crypto concepts in a simulated environment. In this tutorial, your goal is to complete the tasks and become a Fully Qualified Tool. 
 
+All tokens are valueless. 
+
 ### Polygon Chain
-This workshop involves a set of smart contracts pre-deployed on the Polygon Network.  The native token of the Polygon Network is MATIC. 
+This workshop involves a set of smart contracts pre-deployed on the Polygon Network.  The native token of the Polygon Network is MATIC. You will receive a few cents worth of MATIC after completing Level 0. 
 
 ### CryptoTools
-You work at a company called CryptoTools.  Completing Level 0 will credit you with an NFT
+Completing Level 0 will also credit you with a CryptoTools NFT. The CryptoTools NFT represents your employment with Crypto Tools Pty Ltd. 
 
-### TOOLS
-Completing the rest of the Levels  will credit you with TOOLS - a company scrip in the form of an [ERC20 token](contracts/token/TDERC20.cairo).
+### BUCKS
+Completing Levels 1 to #  will credit you with BUCKS - a ficticious currency in the form of an [ERC20 token](contracts/token/TDERC20.cairo).
 
 
 ## Level 0 - Opening the Tool Box
@@ -27,42 +29,46 @@ Tools and Tasks:
 
 3. **Discord Mobile** --> Post your EVM address using the channel `#apprentice-applications`. 
 
-*Successful Applications: 1 MATIC (for gas), 1 CryptoTool NFT.*
+*Successful Applications: 1 MATIC (for gas), 10 BUCKS.*
 
 [Detailed Instructions]
 
 ## Level 1 - First-Day Apprentice 
-It's your first day on the job. The message in Discord's `#welcome`channel tells new joiners to head to the `#apprentice-lounge` channel. It's locked (token gated) to anyone without a CryptoTool NFT.  
+It's your first day on the job. The message in Discord's `#welcome`channel tells new joiners to head to the `#apprentice-lounge` channel. It's locked (token gated) to anyone without 10 BUCKS.  
 
 Tools and Tasks:
 
 1. **Discord Mobile** --> follow the instructions in `#colab-land` to request access to `#apprentice-lounge`
 
-3. **Metamask Mobile** --> Sign the message from ColabLand to prove you own the CryptoTool NFT 
+3. **Metamask Mobile** --> Sign the message from ColabLand to prove you own 10 BUCKS. 
 
 
-*Level 1 Completion Bonus = 10 BUCKS*
+*Level 1 Completion Bonus = 10 BUCKS, 1 CryptoTool NFT*
 
 ## Level 2 - Joining the Union 
-You see a message in the Discord `#apprentice-lounge` channel about joining the newly established ToolUnion. A membership costs 10 BUCKS. You decide to join. 
+You see a message in the Discord `#apprentice-lounge` channel about joining the newly established ToolUnion. A membership costs 20 BUCKS. You decide to join. 
 
 Tools and Tasks:
 
 1. **Metamask Mobile** --> follow the instruction in `#apprentice-lounge` to apply to join the ToolUnion. 
 
-*Level 2 Completion Bonus = 15 BUCKS*
+*Level 2 Completion Bonus = 30 BUCKS*
 
-## Level 3 - Over Qualified
-A 
+## Level 3 - Over Qualified (Optional)
+You notice in Discord that the `#qualified-lounge` channel is now open to you. It is locked for anyone without 30 BUCKS.  You read a message about a Twitter networking event. You decide to attend. 
 
-**TutorialDAO Discord** --> You must access the members only channels in the TutorialDAO Discord [TutorialDAO Discord Server](https://discord.gg/...).
+Tools and Tasks:
 
-*Bonus on promotion to Level 3 = 10 Points and 1 Crypto Tool NFT*
+1. **Twitter** --> subscribe to the curated list of CryptoTwitter personalities at the following URL: . 
 
-## Level 3 - Fully Qualified 
+2. **Discord Mobile** --> post proof of subscription screenshot in `#qualified-lounge`
 
+*Level 3 Completion Bonus = 10 BUCKS* 
 
-*Bonus on promotion to Level 2 = 10 Points and 1 Crypto Tool NFT*
+## Level 4 - Past Prime (Optional)
+You notice in Discord that the `#past-prime-lounge` channel is now open to you. You read the secret message and take the appropriate action. 
+
+*Level 4 Completion Bonus = nil*
 
 ### Snapshot
 
@@ -76,19 +82,7 @@ A
 
 ### Twitter
 ​
-## Getting started
-​
-### Setting up Metamask Mobile
 
-​
-### Using Blockscout
-For this tutorial we'll interact with our contracts through [Blockscout](https://blockscout.com/xdai/mainnet/), Gnosis Chain's block explorer. 
-
--> 
-
-​
-
-​
 
 #### Transaction status
 ​
@@ -97,7 +91,7 @@ You sent a transaction, and it is shown as... This can mean two things:
 -   Your transaction is pending, and will be included in a block shortly. It will then be visible in voyager.
 -   Your transaction was invalid, and will NOT be included in a block (there is no such thing as a failed transaction in StarkNet).
 ​
-You can (and should) check the status of your transaction with the following URL  [https://alpha4.starknet.io/feeder_gateway/get_transaction_receipt?transactionHash=](https://alpha4.starknet.io/feeder_gateway/get_transaction_receipt?transactionHash=)  , where you can append your transaction hash.
+You can (and should) check the status of your transaction with the following URL    , where you can append your transaction hash.
 ​
 ### Exercises & Contract addresses 
 
