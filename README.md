@@ -4,21 +4,38 @@ Journey down the rabbit hole with this hands-on tutorial. Learn the tools of the
 
 ## Introduction
 
-Crypto Tools 101 is the first part in a series of tutorials designed to teach crypto concepts in a simulated environment. In this tutorial, your goal is to complete the tasks and become a Fully Qualified Tool. 
+Crypto Tools 101 Part I of a tutorial series designed to teach crypto concepts in a simulated environment. You will learn how to use a non-custodial wallet to interact with a smart contract platform, hold and receive crypto tokens, join a DAO, and participate in an online community. 
 
-All tokens are valueless. 
+### Polygon Network
 
-### Polygon Chain
-This workshop involves a set of smart contracts pre-deployed on the Polygon Network.  The native token of the Polygon Network is MATIC. You will receive a few cents worth of MATIC after completing Level 0. 
+This workshop involves a set of smart contracts pre-deployed on the Polygon Network.  Interactions with blockchain networks require paying fees to the network to process transactions. Luckily, the transaction fees on the Polygon Network are close to zero. You will receive a few cents worth of MATIC (the fee token for the Polygon Network) after completing Level 0. 
+
+With the exception of receiving a few cents of MATIC, you will not be interacting with any assets of value.  You will only be interacting with smart contracts deployed for the purpose of this tutorial. 
+
+### Metamask
+
+Metamask is a non-custodial crypto wallet and the most popular gateway for interacting with blockchain networks and decentralised applications.  This tutorial may be most conveniently completed using the mobile version of Metamask. 
+
+While there are numerous security implication of self-custodying valuable tokens (particularly on a mobile application), this tutorial will not involve assets of value.  Accordingly, it is not necessary to the best practices of self-custody (for example, using a hardware wallet). The accounts generated for the purpose of this tutorial should be abandoned once the series of tutorials is complete. 
+
+### Discord
+
+Discord is an instant messaging platform that is segregated into community 'servers'. It is commonly used as a community coordination tool in the computer game and crypto industries. The discord server set up for the purpose of this tutorial will be 
+
+## Scenario 
+
+You are looking for a job in the crypto industry.  You see a role advertised at Crypto Tools Pty Ltd. You must apply for the role and meet the requirements for promotion from Level 0 to Level 2. You also have the option of seeking promotion to Level 4, which will provide additional benefits in the second part of this tutorial. 
+
+Throughout your career with Crypto Tools Pty Ltd, you will earn fungible and non-fungible tokens. *All tokens are entirely valueless.* 
 
 ### BUCKS
-Completing Levels 0 to 3  will credit you with BUCKS - a (ficticious) currency in the form of an [ERC20 token](contracts/token/TDERC20.cairo).
+Completing Levels 0 to 3 will credit you with **BUCKS** - a (ficticious) currency in the form of an [ERC20 token](contracts/token/TDERC20.cairo).
 
 ### cryptoTool NFT
-Completing Level 1 will also credit you with a cryptoTool NFT - a (fictitious) proof of employment with Crypto Tools Pty Ltd in the form of an ERC-721 token. 
+Completing Level 1 will also credit you with a **cryptoTool NFT** - a (fictitious) proof of employment with **Crypto Tools Pty Ltd** in the form of an ERC-721 token. 
 
 ## Level 0 - Opening the Tool Box
-You want to apply for a role with Crypto Tools Pty Ltd.  Employees need their own tools. Install the mobile versions of 'Metamask' and 'Discord' from the Android or iOS App Stores. 
+You want to apply for a role with Crypto Tools Pty Ltd.  Employees are required to have their own tools. Install the mobile versions of 'Metamask' and 'Discord' from the Android or iOS App Stores. 
 
 Tools and Tasks:
 
