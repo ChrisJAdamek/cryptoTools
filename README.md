@@ -16,7 +16,7 @@ With the exception of receiving a few cents of MATIC, you will not be interactin
 
 Metamask is a non-custodial crypto wallet and the most popular gateway for interacting with blockchain networks and decentralised applications.  This tutorial may be most conveniently completed using the mobile version of Metamask. You will not need to 'sign-up' to use Metamask. 
 
-While there are numerous security implication of self-custodying valuable tokens (particularly on a mobile application), this tutorial will not involve assets of value.  Accordingly, it is not necessary to the best practices of self-custody (for example, using a hardware wallet). The accounts generated for the purpose of this tutorial should be abandoned once the series of tutorials is complete. 
+While there are numerous security implication of self-custodying valuable tokens (particularly on a mobile application), this tutorial will not involve assets of value.  Accordingly, it is not necessary to the best practices of self-custody (for example, using a hardware wallet). The accounts generated for the purpose of this tutorial should be abandoned once the series of tutorials is complete (with the NFTs transferred to a more secure account as a momento, if desired). 
 
 ### Discord
 
@@ -30,9 +30,9 @@ You are looking for a job in the crypto industry.  You see a role advertised at 
 
 Throughout your career with Crypto Tools Pty Ltd, you will earn the following fungible and non-fungible tokens: 
 
-1. **BUCKS** -- a (ficticious) currency in the form of an [ERC20 token](contracts/token/TDERC20.cairo).  You will earn BUCKS as you progress through the employment levels. 
+1. **BUCKS** -- a (ficticious) currency in the form of an [ERC20 fungible token](contracts/token/TDERC20.cairo).  You will earn BUCKS as you progress through the employment levels. 
 
-2. **cryptoTool NFTs** -- a (fictitious) proof of employment credentials held by employees of **Crypto Tools Pty Ltd**.  The credentials are in the form of an ERC-721 non-fungible token. You will receive your cryptoTools NFT after completing Level 0. 
+2. **cryptoTool NFTs** -- a (fictitious) proof of employment credentials held by employees of **Crypto Tools Pty Ltd**.  The credentials are in the form of an [ERC-721 non-fungible token](https://opensea.io/collection/cryptotools-v3). You will receive your cryptoTools NFT after completing Level 0. 
 
 *All tokens are entirely valueless.* 
 
@@ -96,6 +96,9 @@ You notice in Discord that the `#past-prime-lounge` channel is now open to you. 
 
 ### Contract Addresses 
 
+**cryptoTools NFT:** 0x0e416a6e1DBc52a5ef446Ca8CC481aA719C4Fc8f [(polygonscan)](https://polygonscan.com/address/0x0e416a6e1dbc52a5ef446ca8cc481aa719c4fc8f)
+
+**BUCKS:** 0xB1e0b1C7d8dD1C6C5234d7Ef818569Fb989539bC [(polygonscan)](https://polygonscan.com/token/0xb1e0b1c7d8dd1c6c5234d7ef818569fb989539bc)
 
 
 ## Help and Feedback
