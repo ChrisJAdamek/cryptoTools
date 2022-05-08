@@ -20,7 +20,7 @@ contract CryptoTicka is ERC721, ERC721URIStorage, Ownable, EIP712, ERC721Votes {
     }
     
     function contractURI() public view returns (string memory) {
-        return "https://metadata-url.com/my-metadata";
+        return "ipfs://bafybeifxacuf5wb7gc343wa35qnshwdyqzxhg4wprxno4a3ca4ov2qyd6a/ContractMetadata.txt";
     }
 
     function safeMint(address to, string memory uri) public onlyOwner {
