@@ -1,7 +1,14 @@
 # HELP!
-The following information and links will... 
+This help page includes general information information and links to assist you in learing to use Crypto Tools, together with specific information and tips about the tasks and exercises in the cryptoTools tutorial. 
 
-## 1. Generate and copy a new EVM address
+## General Help
+
+1. [Metamask FAQ page](https://metamask.io/faqs/)
+2. 
+
+## cryptoTools Task Help
+
+### 1. Generate and copy a new EVM address
 1. Download Metamask Mobile ([Apple](https://apps.apple.com/us/app/metamask-blockchain-wallet/id1438144202)) ([Android](https://play.google.com/store/apps/details?id=io.metamask&hl=en_AU&gl=US))
 2. Set up the wallet (follow the in-app prompts to create your wallet).
 3. View your new address (open sidebar, navigate to 'wallet' - your address is the gray/blue button beneath the words 'Account 1' (see screenshot below))
