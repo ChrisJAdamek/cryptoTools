@@ -1,0 +1,15 @@
+{
+  "description": "A friendly community of Fully Qualified Crypto Tools",  
+  "image": "ipfs://bafybeia3iyihpmcez7dlpjcyu7euk6i27rtwklpuraajevhlp63ncqiz3i/5.png", 
+  "name": "JackHammer",
+  "attributes": [
+    {
+      "trait_type": "Gender", 
+      "value": "Female"
+    }, 
+    {
+      "trait_type": "Background Colour", 
+      "value": "Soft Red"
+    }, 
+  ],
+}
