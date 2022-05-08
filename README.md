@@ -47,7 +47,7 @@ Tools and Tasks:
 
 1. **Metamask Mobile** --> Generate a fresh EVM account. ([help!](/HELPME.md))
 
-2. **Discord Mobile** --> Join the [CryptoTools Discord Server]. ([help!](/HELPME.md))
+2. **Discord Mobile** --> Join the [CryptoTools Discord Server]. 
 
 3. **Discord Mobile** --> Post your EVM address using the channel `#apprentice-applications`. ([help!](/HELPME.md))
 
