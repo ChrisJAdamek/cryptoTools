@@ -45,11 +45,11 @@ You want to apply for a role with Crypto Tools Pty Ltd.  Employees are required 
 
 Tools and Tasks:
 
-1. **Metamask Mobile** --> Generate a fresh EVM account. ([help!](/README.md))
+1. **Metamask Mobile** --> Generate a fresh EVM account. ([help!](/HELPME.md))
 
-2. **Discord Mobile** --> Join the [CryptoTools Discord Server]. ([help!](/README.md))
+2. **Discord Mobile** --> Join the [CryptoTools Discord Server]. ([help!](/HELPME.md))
 
-3. **Discord Mobile** --> Post your EVM address using the channel `#apprentice-applications`. ([help!](/README.md))
+3. **Discord Mobile** --> Post your EVM address using the channel `#apprentice-applications`. ([help!](/HELPME.md))
 
 *Successful Applications: 1 MATIC (for gas), 10 BUCKS.*
 
@@ -109,7 +109,7 @@ Once we're are done working on this tutorial, your feedback would be greatly app
 This project can be made better, and we can continue to evolve it. Your contributions are welcome! Here are things that you can do to help:
 - correct bugs 
 - fix errors in this readme
-- add explanation in the ([help!](/README.md)) section
+- add explanation in the ([help!](/HELPME.md)) section
 - add or suggest additional exercises or tools
 
 And if you struggle to move forward on an exercise, let us know. This workshop is meant to be as accessible as possible; we all want to know if it's not the case.
