@@ -55,46 +55,19 @@ Tools and Tasks:
 
 
 ### 👷 Level 1 - First-Day Apprentice 
-It's your first day on the job. The message in Discord's `#welcome`channel tells new joiners to head to the `#apprentice-lounge` channel. It's locked (token gated) to anyone without 10 BUCKS.   
-
-Tools and Tasks:
-
-1. **OpenSea** --> CONNECT to [OpenSea.io](https://opensea.io/account) to ensure your cryptoTools NFT is in your account
-
-2. **Discord Mobile** --> follow the instructions in `#colab-land` and CONNECT your account to be granted access to `#apprentice-lounge`
-
-3. **Metamask Mobile** --> CONNECT and sign the message from ColabLand to prove you own 10 BUCKS. 
-
-
-*Level 1 Completion Bonus = 10 BUCKS, 1 CryptoTool NFT*
+coming soon...
 
 
 ### 🗳️ Level 2 - Joining the Union 
-You see a message in the Discord `#apprentice-lounge` channel about joining the newly established ToolUnion. A membership costs 20 BUCKS. You decide to join. 
-
-Tools and Tasks:
-
-1. **Metamask Mobile** --> follow the instruction in `#apprentice-lounge` to apply to join the ToolUnion. 
-
-*Level 2 Completion Bonus = 30 BUCKS*
+coming soon...
 
 
 ### 🎓 Level 3 - Over Qualified (Optional)
-You notice in Discord that the `#qualified-lounge` channel is now open to you. It is locked for anyone without 30 BUCKS.  You read a message about a Twitter networking event. You decide to attend. 
-
-Tools and Tasks:
-
-1. **Twitter** --> subscribe to the curated list of CryptoTwitter personalities at the following URL: . 
-
-2. **Discord Mobile** --> post proof of subscription screenshot in `#qualified-lounge`
-
-*Level 3 Completion Bonus = 10 BUCKS* 
+coming soon...
 
 
 ### 👴👵 Level 4 - Past Prime (Optional)
-You notice in Discord that the `#past-prime-lounge` channel is now open to you. You read the secret message and take the appropriate action. 
-
-*Level 4 Completion Bonus = nil BUCKS (just valuable Alpha)*
+coming soon... 
 
 
 ### Contract Addresses 
