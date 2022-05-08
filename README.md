@@ -22,7 +22,7 @@ While there are numerous security implication of self-custodying valuable tokens
 
 ### Discord
 
-[Discord](https://en.wikipedia.org/wiki/Discord_(software)) is an instant messaging platform that is segregated into community 'servers'. It is _not_ a blockchain-native application. You will be required to 'sign up' with an email address to use Discord. The email adddress will not be public. You're welcome to use a psuedonym for your display name. 
+[Discord](https://en.wikipedia.org/wiki/Discord_(software)) is an instant messaging platform that is segregated into community 'servers'. It is _not_ a blockchain-native application. You will be required to 'sign up' with an email address to use Discord. The email adddress will not be public. *Using a psuedonym for your display name with make the exercises in Part II more interesting and realistic*. 
 
 Discord is commonly used as a community coordination tool in the computer game and crypto industries. Access to the Discord server set up for the purpose of this tutorial will be available only to tutorial participants. 
 
