@@ -1,6 +1,6 @@
 {
   "description": "A friendly community of Fully Qualified Crypto Tools",  
-  "image": "ipfs://bafybeia3iyihpmcez7dlpjcyu7euk6i27rtwklpuraajevhlp63ncqiz3i/11.png", 
+  "image": "ipfs://bafybeic5smq5wvgzbfqvhb4ky7657p7dwpmxywtebjpf4sbdfatk4irxnm/11.png", 
   "name": "Square",
   "attributes": [
     {
@@ -10,6 +10,6 @@
     {
       "trait_type": "Background Colour", 
       "value": "Bright Green"
-    }, 
-  ],
+    }
+  ]
 }

@@ -1,6 +1,6 @@
 {
   "description": "A friendly community of Fully Qualified Crypto Tools",  
-  "image": "ipfs://bafybeia3iyihpmcez7dlpjcyu7euk6i27rtwklpuraajevhlp63ncqiz3i/5.png", 
+  "image": "ipfs://bafybeic5smq5wvgzbfqvhb4ky7657p7dwpmxywtebjpf4sbdfatk4irxnm/5.png", 
   "name": "JackHammer",
   "attributes": [
     {
@@ -10,6 +10,6 @@
     {
       "trait_type": "Background Colour", 
       "value": "Pink"
-    }, 
-  ],
+    }
+  ]
 }
