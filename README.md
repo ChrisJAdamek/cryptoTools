@@ -79,7 +79,7 @@ Tools and Tasks:
 *Level 2 Completion Bonus = 30 BUCKS*
 
 
-### 📜 Level 3 - Over Qualified (Optional)
+### 🎓 Level 3 - Over Qualified (Optional)
 You notice in Discord that the `#qualified-lounge` channel is now open to you. It is locked for anyone without 30 BUCKS.  You read a message about a Twitter networking event. You decide to attend. 
 
 Tools and Tasks:
