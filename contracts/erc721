@@ -7,20 +7,21 @@ import "@openzeppelin/contracts/access/Ownable.sol";
 import "@openzeppelin/contracts/utils/cryptography/draft-EIP712.sol";
 import "@openzeppelin/contracts/token/ERC721/extensions/draft-ERC721Votes.sol";
 import "@openzeppelin/contracts/utils/Counters.sol";
+import "@openzeppelin/contracts@4.5.0/token/ERC721/extensions/ERC721Royalty.sol";
+import "@openzeppelin/contracts@4.5.0/interfaces/IERC2981.sol";
 
-contract CryptoTicka is ERC721, ERC721URIStorage, Ownable, EIP712, ERC721Votes {
+contract CryptoTools is ERC721, ERC721URIStorage, Ownable, EIP712, ERC721Votes {
     using Counters for Counters.Counter;
 
     Counters.Counter private _tokenIdCounter;
 
-    constructor() ERC721("cryptoTicka", "CTA") EIP712("cryptoTicka", "1") {}
+    constructor() ERC721("cryptoTools", "TOOLS") EIP712("cryptoTools", "1") {}
+    function contractURI() public view returns (string memory) {
+        return "ipfs://bafybeiaibnlttzn5unrqe7nnn3b2fgiwh75kqyuedv6cbz5mhlg4int2ly/ContractMetadata.txt";
+    }
 
     function _baseURI() internal pure override returns (string memory) {
-        return "ipfs://bafybeictjbp2bovmjsp3nji32lcn4rf5efwk3g54b77fcahlshleb4uyrm";
-    }
-    
-    function contractURI() public view returns (string memory) {
-        return "ipfs://bafybeifxacuf5wb7gc343wa35qnshwdyqzxhg4wprxno4a3ca4ov2qyd6a/ContractMetadata.txt";
+        return "ipfs://bafybeigqvxys7yrgqewejvy5fbbwfdqifzgafqvxjsxn4dswplezgp4eom/";
     }
 
     function safeMint(address to, string memory uri) public onlyOwner {
