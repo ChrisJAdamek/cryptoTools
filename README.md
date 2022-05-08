@@ -43,15 +43,13 @@ You want to apply for a role with Crypto Tools Pty Ltd.  Employees are required 
 
 Tools and Tasks:
 
-1. **Metamask Mobile** --> Generate a fresh EVM account. 
+1. **Metamask Mobile** --> Generate a fresh EVM account [help!](). 
 
-2. **Discord Mobile** --> Join the [CryptoTools Discord Server]. 
+2. **Discord Mobile** --> Join the [CryptoTools Discord Server] [help!](). 
 
 3. **Discord Mobile** --> Post your EVM address using the channel `#apprentice-applications`. 
 
 *Successful Applications: 1 MATIC (for gas), 10 BUCKS.*
-
-[Detailed Instructions]
 
 ### Level 1 - First-Day Apprentice 
 It's your first day on the job. The message in Discord's `#welcome`channel tells new joiners to head to the `#apprentice-lounge` channel. It's locked (token gated) to anyone without 10 BUCKS.  
