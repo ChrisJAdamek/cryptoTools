@@ -53,6 +53,7 @@ Tools and Tasks:
 
 *Successful Applications: 1 MATIC (for gas), 10 BUCKS.*
 
+
 ### Level 1 - First-Day Apprentice 
 It's your first day on the job. The message in Discord's `#welcome`channel tells new joiners to head to the `#apprentice-lounge` channel. It's locked (token gated) to anyone without 10 BUCKS.   
 
@@ -67,6 +68,7 @@ Tools and Tasks:
 
 *Level 1 Completion Bonus = 10 BUCKS, 1 CryptoTool NFT*
 
+
 ### Level 2 - Joining the Union 
 You see a message in the Discord `#apprentice-lounge` channel about joining the newly established ToolUnion. A membership costs 20 BUCKS. You decide to join. 
 
@@ -75,6 +77,7 @@ Tools and Tasks:
 1. **Metamask Mobile** --> follow the instruction in `#apprentice-lounge` to apply to join the ToolUnion. 
 
 *Level 2 Completion Bonus = 30 BUCKS*
+
 
 ### Level 3 - Over Qualified (Optional)
 You notice in Discord that the `#qualified-lounge` channel is now open to you. It is locked for anyone without 30 BUCKS.  You read a message about a Twitter networking event. You decide to attend. 
@@ -87,10 +90,12 @@ Tools and Tasks:
 
 *Level 3 Completion Bonus = 10 BUCKS* 
 
+
 ### Level 4 - Past Prime (Optional)
 You notice in Discord that the `#past-prime-lounge` channel is now open to you. You read the secret message and take the appropriate action. 
 
 *Level 4 Completion Bonus = nil BUCKS (just valuable Alpha)*
+
 
 ### Contract Addresses 
 
