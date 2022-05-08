@@ -1,0 +1,7 @@
+{
+  "name": "cryptoTicka",
+  "description": "A collection of fun loving Crypto Tools",
+  "image": "ipfs://bafybeia4guwxn63s22vk3zz2yantlwte7uqq5l3v3ns7dbwivzqbo3m2ku/cryptoTools",
+  "seller_fee_basis_points": 100, # Indicates a 1% seller fee.
+  "fee_recipient": "0x7B1F4CF6A8B442C177a987AD20a3Cd948D927A4A" # Where seller fees will be paid to.
+}
