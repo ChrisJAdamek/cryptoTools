@@ -1,6 +1,5 @@
-images/cryptoToolsLogo.jpg
-
-# Crypto Tools 101
+![cryptoToolsLogo](images/cryptoToolsLogo.jpg?raw=true "cryptoToolsLogo") 
+# cryptoTools 101
 Journey down the rabbit hole with this hands-on tutorial. Learn the tools of the crypto trade. 
 
 ## Introduction
