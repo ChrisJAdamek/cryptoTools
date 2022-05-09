@@ -48,6 +48,4 @@ This help page includes general information information and links to assist you 
 
 ______________________
 
-### Connect to the Polygon Network 
-1. Connect to Polygon Network (navigate to `chainlist.wtf`, CONNECT your account (top left), search for Polygon and click on the button to add it)
 
