@@ -7,13 +7,13 @@ Journey down the rabbit hole with this hands-on tutorial. Learn the tools of the
 Crypto Tools 101 is Part I of a tutorial series designed for beginners to learn crypto concepts in a simulated environment. In Part I, you will learn about: 
 - generating addresses with a non-custodial wallet
 - receiving and self-custodying fugible and non-fungible tokens
-- participating in an online community
-- sending messages as a method of transacting with a blockchain network
-- using accounts as a method of authentication (signing messages)
-- using tokens as a method of authentication (token gates)
+- participating in online communities
+- sending messages as a method of transacting on blockchain networks
+- using accounts as a method of authenticating identity (signing messages)
+- using tokens as a method of authenticating identity (token gates)
 - investing in Moloch DAOs
-- Crypto Twitter 
-- planning a governance attack 
+- following useful resources on Crypto Twitter (optional)
+- planning a governance attack (optional)
 
 ### Polygon Network
 
