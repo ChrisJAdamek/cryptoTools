@@ -51,7 +51,7 @@ Tools and Tasks:
 
 2. **Discord Mobile** --> Join the [CryptoTools Discord Server]. 
 
-3. **Discord Mobile** --> Post your new EVM address in Discord using the channel `#apprentice-applications`. ([help!](/HELPME.md))
+3. **Discord Mobile** --> Post your new EVM address in Discord using the channel `#job-applications`. ([help!](/HELPME.md))
 
 *Successful Applications: 1 MATIC (for gas), 10 BUCKS.*
 
