@@ -43,7 +43,7 @@ Throughout your career with Crypto Tools Pty Ltd, you will earn the following fu
 ## Tasks and Exercises 
 
 ### 🧰 Level 0 - Opening the Tool Box
-You want to apply for a role with Crypto Tools Pty Ltd.  Employees are required to have their own tools. Install the mobile versions of 'Metamask' and 'Discord' from the Android or iOS App Stores. 
+You want to apply for a role with Crypto Tools Pty Ltd.  Employees are required to have their own tools. You must install the mobile versions of 'Metamask' and 'Discord' and prove you have the basic tools for the job. . 
 
 Tools and Tasks:
 
