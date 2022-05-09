@@ -4,7 +4,16 @@ Journey down the rabbit hole with this hands-on tutorial. Learn the tools of the
 
 ## Introduction
 
-Crypto Tools 101 is Part I of a tutorial series designed for beginners to learn crypto concepts in a simulated environment. You will learn how to use a non-custodial wallet to interact with a smart contract platform, hold and receive crypto tokens, join a DAO, and participate in an online community. 
+Crypto Tools 101 is Part I of a tutorial series designed for beginners to learn crypto concepts in a simulated environment. In Part I, you will learn about: 
+- generating addresses with a non-custodial wallet
+- receiving and self-custodying fugible and non-fungible tokens
+- participating in an online community
+- sending messages as a method of transacting with a blockchain network
+- using accounts as a method of authentication (signing messages)
+- using tokens as a method of authentication (token gates)
+- investing in Moloch DAOs
+- Crypto Twitter (Level-3 Only)
+- planning a governance attack (Level-4 only)
 
 ### Polygon Network
 
