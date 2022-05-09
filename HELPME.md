@@ -17,6 +17,11 @@ This help page includes general information information and links to assist you 
  ![image](https://user-images.githubusercontent.com/104967421/167320592-8e730324-b606-40eb-ac22-f79d57cff5a9.png)
 
 
+### 2. CONNECT to OpenSea
+1. navigate to opensea.io/account
+2. select MetaMask
+3. sign the message to authenticate your account
+4. ![image](https://user-images.githubusercontent.com/104967421/167430329-a5220eb3-88a0-4e01-8d59-7f703676a69b.png)
 
 
 5. 
