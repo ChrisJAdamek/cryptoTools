@@ -60,13 +60,13 @@ You want to apply for a role with Crypto Tools Pty Ltd.  Employees are required 
 
 **Tasks:** 
 
-1. **Metamask** --> Set up your wallet and generate a fresh EVM account. ([help!](/HELPME.md))
+1. **Metamask** --> set up your wallet and generate a fresh EVM account. ([help!](/HELPME.md))
 
 3. **MetaMask** --> configure you wallet to connect to the Polygon Network. ([help!](/HELPME.md))
 
-3. **Discord** --> Join the [cryptoTools Discord Server](https://discord.gg/2qv6qtzm) (use a psuedonym). 
+3. **Discord** --> join the [cryptoTools Discord Server](https://discord.gg/2qv6qtzm) (use a psuedonym). 
 
-4. **Discord** --> Post your new EVM address in Discord using the channel `#job-applications`. ([help!](/HELPME.md))
+4. **Discord** --> post your new address in Discord using the channel `#job-applications`. ([help!](/HELPME.md))
 
 
 ### 👷 Level 1 - First-Day Apprentice 
@@ -82,7 +82,7 @@ It's your first day on the job. You've been told to head into the `#apprentice-l
 
 2. **Discord/Metamask** --> CONNECT to token gate using the instructions in the Discord `#collab-land` channel. 
 
-3. **Discord** --> introduce your psuedonomous identify in the newly opened `#apprentice-lounge`. 
+3. **Discord** --> post your address in the channel `#apprentice-lounge` to prove you passed the token-gate. 
 
 
 ### 🗳️ Level 2 - Joining the Union 
