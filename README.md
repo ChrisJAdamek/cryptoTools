@@ -8,9 +8,9 @@ Crypto Tools 101 is Part I of a tutorial series designed for beginners to learn 
 
 ### Polygon Network
 
-[Polygon PoS Network](https://youtu.be/IijtdpAtOt0) is a smart contract platform based primarily on the code-base of the Ethereum Network (i.e. an [EVM Network](https://www.alchemy.com/overviews/what-is-the-ethereum-virtual-machine-evm)). This workshop involves a set of smart contracts pre-deployed on the Polygon Network.
+[Polygon PoS Network](https://youtu.be/IijtdpAtOt0) is a smart contract platform based primarily on the code-base of the Ethereum Network (i.e. an EVM Network). This workshop involves a set of smart contracts pre-deployed on the Polygon Network.
 
-EVM networks like Polygon charge fees to process transaction. However, Polygon's implementation of the EVM is such that fees are extremely low. A few cents worth of MATIC (the fee token for the Polygon Network) is sufficient for multiple transactions. You will receive a few cents of MATIC after completing Level 0. 
+[EVM Networks](https://www.alchemy.com/overviews/what-is-the-ethereum-virtual-machine-evm) like Polygon charge fees to process transaction. However, Polygon's implementation of the EVM is such that fees are extremely low. A few cents worth of MATIC (the fee token for the Polygon Network) is sufficient for multiple transactions. You will receive a few cents of MATIC after completing Level 0. 
 
 With the exception of receiving a few cents of MATIC, you will *not be interacting with any assets of value*.  You will only be interacting with smart contracts deployed for the purpose of this tutorial. 
 
