@@ -5,7 +5,7 @@ Journey down the rabbit hole with this hands-on tutorial. Learn the tools of the
 ## Introduction
 
 Crypto Tools 101 is Part I of a tutorial series designed for beginners to learn crypto concepts in a simulated environment. In Part I, you will learn about: 
-- generating addresses with a non-custodial wallet
+- generating accounts and addresses with non-custodial wallets
 - receiving and self-custodying fugible and non-fungible tokens
 - participating in online communities
 - sending messages as a method of transacting on blockchain networks
@@ -58,15 +58,16 @@ Tools and Tasks:
 
 1. **Metamask Mobile** --> Generate a fresh EVM account. ([help!](/HELPME.md))
 
-2. **Discord Mobile** --> Join the [CryptoTools Discord Server](https://discord.gg/2qv6qtzm) (use a psuedonym). 
+2. **Discord Mobile** --> Join the [cryptoTools Discord Server](https://discord.gg/2qv6qtzm) (use a psuedonym). 
 
 3. **Discord Mobile** --> Post your new EVM address in Discord using the channel `#job-applications`. ([help!](/HELPME.md))
 
-*Successful Applications: 1 MATIC (for gas), 10 BUCKS.*
+*Reward on Completion: 1 MATIC (for gas), 10 BUCKS.*
+*Skills on Completion: generating accounts and addresses with non-custodial wallets, receiving fungible tokens, participating in an online community. 
 
 
 ### xx 👷 Level 1 - First-Day Apprentice 
-It's your first day on the job. You attempt to head to Discord's `#apprentice-lounge` channel. It's locked (token gated).    
+It's your first day on the job. You've been told to head into the `#apprentice-lounge` channel in Discord. The channel is hidden for the public.  You'll need to authenticate your address to enter. 
 
 *tasks coming soon...*
 
