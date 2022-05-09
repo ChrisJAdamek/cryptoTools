@@ -56,20 +56,28 @@ Tools and Tasks:
 *Successful Applications: 1 MATIC (for gas), 10 BUCKS.*
 
 
-### 👷 Level 1 - First-Day Apprentice 
-coming soon...
+### xx 👷 Level 1 - First-Day Apprentice 
+It's your first day on the job. You attempt to head to Discord's `#apprentice-lounge` channel. It's locked (token gated).    
+
+*tasks coming soon...*
 
 
-### 🗳️ Level 2 - Joining the Union 
-coming soon...
+### xx 🗳️ Level 2 - Joining the Union 
+You hear that some of your colleagues are unionising. A membership to the ToolUnion costs 20 BUCKS. You decide to join. 
+
+*tasks coming soon...*
 
 
-### 🎓 Level 3 - Over Qualified (Optional)
-coming soon...
+### xx 🎓 Level 3 - Over Qualified (Optional)
+You keep overhearing your colleagues making jokes about Crypto Linkedin. You get the impression that the serious experts in the space hang out on Crypto Twitter. You decide its time to jump onboard. 
+
+*tasks coming soon...*
 
 
-### 👴👵 Level 4 - Past Prime (Optional)
-coming soon... 
+### xx 👴👵 Level 4 - Past Prime (Optional)
+You notice in Discord that the `#past-prime-lounge` channel is now open to you. You read the secret message and take the appropriate action. 
+
+*tasks coming soon...*
 
 
 ### Contract Addresses 
