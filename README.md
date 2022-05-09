@@ -70,7 +70,7 @@ You want to apply for a role with Crypto Tools Pty Ltd.  Employees are required 
 ### xx 👷 Level 1 - First-Day Apprentice 
 It's your first day on the job. You've been told to head into the `#apprentice-lounge` channel in Discord. The channel is hidden for the public.  You'll need to authenticate your address to enter. 
 
-**Skills:**
+**Skills:** using tokens as a method of authenticating identity (token gates), using accounts as a method of identity (signing messages), participating in online communities. 
 
 **Bounty:** 10 BUCKS
 
