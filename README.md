@@ -67,7 +67,7 @@ You want to apply for a role with Crypto Tools Pty Ltd.  Employees are required 
 3. **Discord** --> Post your new EVM address in Discord using the channel `#job-applications`. ([help!](/HELPME.md))
 
 
-### xx 👷 Level 1 - First-Day Apprentice 
+### 👷 Level 1 - First-Day Apprentice 
 It's your first day on the job. You've been told to head into the `#apprentice-lounge` channel in Discord. The channel is hidden for the public.  You'll need to authenticate your address to enter. 
 
 **Skills:** using tokens as a method of authenticating identity (token gates), using accounts as a method of identity (signing messages), participating in online communities. 
@@ -83,7 +83,7 @@ It's your first day on the job. You've been told to head into the `#apprentice-l
 3. **Discord** --> introduce your psuedonomous identify in the newly opened `#apprentice-lounge`. 
 
 
-### xx 🗳️ Level 2 - Joining the Union 
+### 🗳️ Level 2 - Joining the Union 
 You hear that some of your colleagues are unionising. Someone has set up a [Moloch DAO](https://daohaus.club/docs#what-is-moloch) to take membership fees and issue shares in the new toolUnion DAO. A membership costs 20 BUCKS. You decide to join. 
 
 **Skills:** 
