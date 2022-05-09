@@ -45,16 +45,20 @@ Throughout your career with Crypto Tools Pty Ltd, you will earn the following fu
 
 1. **BUCKS** -- a (ficticious) currency in the form of an [ERC20 fungible token](https://ethereum.org/en/developers/docs/standards/tokens/erc-20/).  You will earn BUCKS as you progress through the employment levels. 
 
-2. **cryptoTool NFTs** -- a (fictitious) proof of employment credentials held by employees of **Crypto Tools Pty Ltd**.  The credentials are in the form of an [ERC-721 non-fungible token](https://ethereum.org/en/developers/docs/standards/tokens/erc-721/). You will receive your cryptoTools NFT after completing Level 1. 
+2. **cryptoTool NFTs** -- a (fictitious) proof of employment credentials held by employees of Crypto Tools Pty Ltd.  The credentials are in the form of an [ERC-721 non-fungible token](https://ethereum.org/en/developers/docs/standards/tokens/erc-721/). You will receive your cryptoTools NFT after completing Level 1. 
 
 *All tokens are entirely valueless.* 
 
 ## Tasks and Exercises 
 
 ### 🧰 Level 0 - Opening the Tool Box
-You want to apply for a role with Crypto Tools Pty Ltd.  Employees are required to have their own tools. You must install the mobile versions of 'Metamask' and 'Discord' and prove you have the basic tools for the job. . 
+You want to apply for a role with Crypto Tools Pty Ltd.  Employees are required to have their own tools. You must install the mobile versions of 'Metamask' and 'Discord' and prove you have the basic tools for the job. 
 
-Tools and Tasks:
+**Skills**: generating accounts and addresses with non-custodial wallets, receiving fungible tokens, participating in an online community.
+
+**Reward:** 1 MATIC (for gas), 10 BUCKS.
+
+**Tasks:** 
 
 1. **Metamask Mobile** --> Generate a fresh EVM account. ([help!](/HELPME.md))
 
@@ -62,8 +66,9 @@ Tools and Tasks:
 
 3. **Discord Mobile** --> Post your new EVM address in Discord using the channel `#job-applications`. ([help!](/HELPME.md))
 
-*Reward on Completion: 1 MATIC (for gas), 10 BUCKS.*
-*Skills on Completion: generating accounts and addresses with non-custodial wallets, receiving fungible tokens, participating in an online community. 
+
+
+
 
 
 ### xx 👷 Level 1 - First-Day Apprentice 
