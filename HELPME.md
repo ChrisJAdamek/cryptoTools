@@ -16,6 +16,10 @@ This help page includes general information information and links to assist you 
 4. Copy account address (open sidebar, navigate to 'wallet', and click on your address to copy it to the clipboard)
  ![image](https://user-images.githubusercontent.com/104967421/167320592-8e730324-b606-40eb-ac22-f79d57cff5a9.png)
 
+### 2. Configure MetaMask for the Polygon Network
+1. navigate to chainlist.wtf, 
+2. CONNECT your account (top left) and sign message giving view access, 
+3. search for Polygon and click on the button to add it
 
 ### 2. CONNECT to OpenSea
 1. navigate to https://opensea.io/account
