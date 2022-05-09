@@ -103,10 +103,10 @@ You hear that some of your colleagues are unionising. Someone has set up a [Molo
       ![image](https://user-images.githubusercontent.com/104967421/167417009-268591e1-681d-414c-8a23-3db7aaa081eb.png)
 
 
-### xx 🎓 Level 3 - Over Qualified (Optional)
+### 🎓 Level 3 - Over Qualified (Optional)
 You keep overhearing your colleagues making [jokes about Crypto Linkedin](/Linkedin-jokes.md/). You get the impression that the serious experts in the space hang out on Crypto Twitter. You decide its time to jump onboard. 
 
-*tasks coming soon...*
+1. Download Twitter and subscribe to this curated list of half-decent Crypto Twitter commentators [cryptoTools Twitter List](https://twitter.com/i/lists/1522562357528240128?s=20)
 
 
 ### xx 👴👵 Level 4 - Past Prime (Optional)
