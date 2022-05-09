@@ -69,7 +69,7 @@ You hear that some of your colleagues are unionising. A membership to the ToolUn
 
 
 ### xx 🎓 Level 3 - Over Qualified (Optional)
-You keep overhearing your colleagues making jokes about Crypto Linkedin. You get the impression that the serious experts in the space hang out on Crypto Twitter. You decide its time to jump onboard. 
+You keep overhearing your colleagues making [jokes about Crypto Linkedin](/Linkedin-jokes/). You get the impression that the serious experts in the space hang out on Crypto Twitter. You decide its time to jump onboard. 
 
 *tasks coming soon...*
 
