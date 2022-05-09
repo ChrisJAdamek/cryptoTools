@@ -72,7 +72,7 @@ It's your first day on the job. You've been told to head into the `#apprentice-l
 
 **Skills:** using tokens as a method of authenticating identity (token gates), using accounts as a method of identity (signing messages), participating in online communities. 
 
-**Bounty:** 10 BUCKS
+**Bounty:** 30 BUCKS
 
 **Tasks:**
 
