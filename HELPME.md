@@ -18,15 +18,19 @@ This help page includes general information information and links to assist you 
 
 
 ### 2. CONNECT to OpenSea
-1. navigate to opensea.io/account
+1. navigate to https://opensea.io/account
 2. select MetaMask
 3. sign the message to authenticate your account
 4. ![image](https://user-images.githubusercontent.com/104967421/167430329-a5220eb3-88a0-4e01-8d59-7f703676a69b.png)
 
 
-5. 
-6. 
-7. 
+### 3. Create Proposal on DAOhaus
+1. navigate to https://app.daohaus.club/dao/0x89/0x3a8b51b58799bf1459b0d2d1577fdb0f8e995dbe/proposals
+2. click 'New Proposal +' ![image](https://user-images.githubusercontent.com/104967421/167431162-d2e0a37b-f36d-4c24-a118-5d5068ecf12e.png)
+3. click 'Membership Proposal' ![image](https://user-images.githubusercontent.com/104967421/167431281-189df633-9953-4988-9213-0a879fb3cd9b.png)
+4. 
+
+
 
 
 ______________________
