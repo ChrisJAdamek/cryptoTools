@@ -60,11 +60,13 @@ You want to apply for a role with Crypto Tools Pty Ltd.  Employees are required 
 
 **Tasks:** 
 
-1. **Metamask** --> Generate a fresh EVM account. ([help!](/HELPME.md))
+1. **Metamask** --> Set up your wallet and generate a fresh EVM account. ([help!](/HELPME.md))
 
-2. **Discord** --> Join the [cryptoTools Discord Server](https://discord.gg/2qv6qtzm) (use a psuedonym). 
+3. **MetaMask** --> configure you wallet to connect to the Polygon Network. ([help!](/HELPME.md))
 
-3. **Discord** --> Post your new EVM address in Discord using the channel `#job-applications`. ([help!](/HELPME.md))
+3. **Discord** --> Join the [cryptoTools Discord Server](https://discord.gg/2qv6qtzm) (use a psuedonym). 
+
+4. **Discord** --> Post your new EVM address in Discord using the channel `#job-applications`. ([help!](/HELPME.md))
 
 
 ### 👷 Level 1 - First-Day Apprentice 
