@@ -21,14 +21,14 @@ This help page includes general information information and links to assist you 
 2. CONNECT your account (top left) and sign message giving view access, 
 3. search for Polygon and click on the button to add it
 
-### 2. CONNECT to OpenSea
+### 3. CONNECT to OpenSea
 1. navigate to https://opensea.io/account
 2. select MetaMask
 3. sign the message to authenticate your account
 4. ![image](https://user-images.githubusercontent.com/104967421/167430329-a5220eb3-88a0-4e01-8d59-7f703676a69b.png)
 
 
-### 3. Create Proposal on DAOhaus
+### 4. Create Proposal on DAOhaus
 1. navigate to https://app.daohaus.club/dao/0x89/0x3a8b51b58799bf1459b0d2d1577fdb0f8e995dbe/proposals
 2. click 'New Proposal +' 
 
@@ -41,7 +41,7 @@ This help page includes general information information and links to assist you 
 6. fill the 'Membership Proposal' form as set out below (using your Discord username)
 
 -    ![image](https://user-images.githubusercontent.com/104967421/167417009-268591e1-681d-414c-8a23-3db7aaa081eb.png)
-8. 
+
 
 
 
