@@ -56,7 +56,7 @@ You want to apply for a role with Crypto Tools Pty Ltd.  Employees are required 
 
 **Skills**: generating accounts and addresses with non-custodial wallets, receiving fungible tokens, participating in an online community.
 
-**Reward:** 1 MATIC (for gas), 10 BUCKS.
+**Bounty:** 1 MATIC (for gas), 1 cryptoTools NFT.
 
 **Tasks:** 
 
@@ -67,14 +67,20 @@ You want to apply for a role with Crypto Tools Pty Ltd.  Employees are required 
 3. **Discord Mobile** --> Post your new EVM address in Discord using the channel `#job-applications`. ([help!](/HELPME.md))
 
 
-
-
-
-
 ### xx 👷 Level 1 - First-Day Apprentice 
 It's your first day on the job. You've been told to head into the `#apprentice-lounge` channel in Discord. The channel is hidden for the public.  You'll need to authenticate your address to enter. 
 
-*tasks coming soon...*
+**Skills:**
+
+**Bounty:** 10 BUCKS
+
+**Tasks:**
+
+1. **OpenSea** --> CONNECT to [OpenSea.io](https://opensea.io/account) to check that your cryptoTools NFT is in your account ([help!](/HELPME.md)).
+
+2. **Discord/Metamask** --> CONNECT to token gate using the instructions in the Discord `#collab-land` channel. 
+
+3. **Discord** --> introduce your psuedonomous identify in the newly opened `#apprentice-lounge`. 
 
 
 ### xx 🗳️ Level 2 - Joining the Union 
