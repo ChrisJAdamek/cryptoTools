@@ -80,7 +80,7 @@ It's your first day on the job. You've been told to head into the `#apprentice-l
 
 1. **OpenSea** --> CONNECT to [OpenSea.io](https://opensea.io/account) to check that your cryptoTools NFT is in your account ([help!](/HELPME.md)).
 
-2. **Discord/Metamask** --> CONNECT to token gate using the instructions in the Discord `#collab-land` channel. 
+2. **Discord/Metamask** --> CONNECT to token gate using the instructions in the Discord `#collabland-join` channel. 
 
 3. **Discord** --> post your address in the channel `#apprentice-lounge` to prove you passed the token-gate. 
 
