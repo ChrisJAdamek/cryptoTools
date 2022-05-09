@@ -60,14 +60,16 @@ You want to apply for a role with Crypto Tools Pty Ltd.  Employees are required 
 
 **Tasks:** 
 
-1. **Metamask Mobile** --> Generate a fresh EVM account. ([help!](/HELPME.md))
+1. **Metamask** --> Set up your wallet and generate a fresh EVM account. ([help!](/HELPME.md))
 
-2. **Discord Mobile** --> Join the [cryptoTools Discord Server](https://discord.gg/2qv6qtzm) (use a psuedonym). 
+3. **MetaMask** --> configure you wallet to connect to the Polygon Network. ([help!](/HELPME.md))
 
-3. **Discord Mobile** --> Post your new EVM address in Discord using the channel `#job-applications`. ([help!](/HELPME.md))
+3. **Discord** --> Join the [cryptoTools Discord Server](https://discord.gg/2qv6qtzm) (use a psuedonym). 
+
+4. **Discord** --> Post your new EVM address in Discord using the channel `#job-applications`. ([help!](/HELPME.md))
 
 
-### xx 👷 Level 1 - First-Day Apprentice 
+### 👷 Level 1 - First-Day Apprentice 
 It's your first day on the job. You've been told to head into the `#apprentice-lounge` channel in Discord. The channel is hidden for the public.  You'll need to authenticate your address to enter. 
 
 **Skills:** using tokens as a method of authenticating identity (token gates), using accounts as a method of identity (signing messages), participating in online communities. 
@@ -83,10 +85,22 @@ It's your first day on the job. You've been told to head into the `#apprentice-l
 3. **Discord** --> introduce your psuedonomous identify in the newly opened `#apprentice-lounge`. 
 
 
-### xx 🗳️ Level 2 - Joining the Union 
-You hear that some of your colleagues are unionising. A membership to the ToolUnion costs 20 BUCKS. You decide to join. 
+### 🗳️ Level 2 - Joining the Union 
+You hear that some of your colleagues are unionising. Someone has set up a [Moloch DAO](https://daohaus.club/docs#what-is-moloch) to take membership fees and issue shares in the new toolUnion DAO. A membership costs 20 BUCKS. You decide to join. 
 
-*tasks coming soon...*
+**Skills:** 
+
+**Bounty:** 30 BUCKS
+
+**Tasks:** 
+
+1. **DAOhaus** --> CONNECT to toolUnion through the interface at [DAOhaus](https://app.daohaus.club/dao/0x89/0x3a8b51b58799bf1459b0d2d1577fdb0f8e995dbe/).
+
+2. **DAOhaus** --> fill out your application by selecting 'New Proposal+' and choosing 'Membership Proposal' (like in the screenshot below but using your Discord username) ([help!](/HELPME.md))
+
+3. **DAOhaus** --> click 'Unlock Token' (and sign the transaction). Once approved, click 'submit' (and sign a second transaction) ([help!](/HELPME.md))
+
+      ![image](https://user-images.githubusercontent.com/104967421/167417009-268591e1-681d-414c-8a23-3db7aaa081eb.png)
 
 
 ### xx 🎓 Level 3 - Over Qualified (Optional)
