@@ -5,7 +5,6 @@ This help page includes general information information and links to assist you 
 
 1. [Metamask FAQ page](https://metamask.io/faqs/)
 2. [DAOhaus Documentation](https://daohaus.club/docs/)
-3. 
 
 ## cryptoTools Help
 
