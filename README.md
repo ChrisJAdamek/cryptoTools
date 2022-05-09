@@ -88,7 +88,7 @@ It's your first day on the job. You've been told to head into the `#apprentice-l
 ### 🗳️ Level 2 - Joining the Union 
 You hear that some of your colleagues are unionising. Someone has set up a [Moloch DAO](https://daohaus.club/docs#what-is-moloch) to take membership fees and issue shares in the new toolUnion DAO. A membership costs 20 BUCKS. You decide to join. 
 
-**Skills:** 
+**Skills:** investing in Moloch DAOs
 
 **Bounty:** 30 BUCKS
 
