@@ -92,7 +92,13 @@ You hear that some of your colleagues are unionising. Someone has set up a [Molo
 
 **Tasks:** 
 
-1. **DAOhaus** --> follow the instruction in `#apprentice-lounge` to apply to join the ToolUnion ([help!](/HELPME.md)).
+1. **DAOhaus** --> CONNECT to toolUnion through the interface at [DAOhaus](https://app.daohaus.club/dao/0x89/0x3a8b51b58799bf1459b0d2d1577fdb0f8e995dbe/).
+
+2. **DAOhaus** --> fill out your application by selecting 'New Proposal+' and choosing 'Membership Proposal' (like in the screenshot below but using your Discord username) ([help!](/HELPME.md))
+
+3. **DAOhaus** --> click 'Unlock Token' (and sign the transaction). Once approved, click 'submit' (and sign a second transaction) ([help!](/HELPME.md))
+
+      ![image](https://user-images.githubusercontent.com/104967421/167417009-268591e1-681d-414c-8a23-3db7aaa081eb.png)
 
 
 ### xx 🎓 Level 3 - Over Qualified (Optional)
