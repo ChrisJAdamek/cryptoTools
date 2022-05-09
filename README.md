@@ -12,8 +12,8 @@ Crypto Tools 101 is Part I of a tutorial series designed for beginners to learn 
 - using accounts as a method of authentication (signing messages)
 - using tokens as a method of authentication (token gates)
 - investing in Moloch DAOs
-- Crypto Twitter (Level-3 Only)
-- planning a governance attack (Level-4 only)
+- Crypto Twitter 
+- planning a governance attack 
 
 ### Polygon Network
 
