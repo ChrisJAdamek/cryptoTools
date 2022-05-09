@@ -29,7 +29,7 @@ With the exception of receiving a few cents of MATIC, you will *not be interacti
 
 The Metamask Mobile app has a built-in browser. You will need to use this browser for any tasks that involve authenticating ownership of an account (these tasks are marked as 'CONNECT').
 
-While there are numerous security implication of self-custodying valuable tokens (particularly on a mobile application), this tutorial will not involve assets of value.  Accordingly, it is not necessary to the best practices of self-custody (for example, using a hardware wallet). The accounts generated for the purpose of this tutorial should be abandoned once the series of tutorials is complete (with the NFTs transferred to a more secure account as a momento, if desired). 
+While there are numerous security implications of self-custodying valuable tokens (particularly on a mobile application), this tutorial will not involve assets of any value.  Accordingly, it is not necessary to follow self-custody best practices (for example, using a hardware wallet). The accounts generated for the purpose of this tutorial should be abandoned once the series of tutorials is complete - with the NFTs transferred to a more secure account (as we may want to use this to simulate DAO voting in future). 
 
 ### Discord
 
