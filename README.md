@@ -43,7 +43,7 @@ You are looking for a job in the crypto industry.  You see a role advertised at 
 
 Throughout your career with Crypto Tools Pty Ltd, you will earn the following fungible and non-fungible tokens: 
 
-1. **BUCKS** -- a (ficticious) currency in the form of an [ERC20 fungible token](https://ethereum.org/en/developers/docs/standards/tokens/erc-20/).  You will earn BUCKS as you progress through the employment levels. 
+1. **BUCKS** -- a (ficticious) currency in the form of an [ERC20 fungible token](https://ethereum.org/en/developers/docs/standards/tokens/erc-20/){:target="_blank"}.  You will earn BUCKS as you progress through the employment levels. 
 
 2. **cryptoTool NFTs** -- a (fictitious) proof of employment credentials held by employees of Crypto Tools Pty Ltd.  The credentials are in the form of an [ERC-721 non-fungible token](https://ethereum.org/en/developers/docs/standards/tokens/erc-721/). You will receive your cryptoTools NFT after completing Level 1. 
 
