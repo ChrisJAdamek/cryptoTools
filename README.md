@@ -82,7 +82,7 @@ It's your first day on the job. You've been told to head into the `#apprentice-l
 
 2. **Discord/Metamask** --> CONNECT to token gate using the instructions in the Discord `#collabland-join` channel. 
 
-3. **Discord** --> post your address in the channel `#apprentice-lounge` to prove you passed the token-gate. 
+3. **Discord** --> prove you got past the token gate by posting your address (again)  in the `#apprentice-lounge` channel. 
 
 
 ### 🗳️ Level 2 - Joining the Union 
