@@ -17,8 +17,8 @@ This help page includes general information information and links to assist you 
 
 ### 2. Configure MetaMask for the Polygon Network
 1. navigate to chainlist.wtf, 
-2. CONNECT your account (top left) and sign message giving view access, 
-3. search for Polygon and click on the button to add it
+2. CONNECT your account (top right) and sign message giving view access, 
+3. scroll to find `Polygon Mainnet` (search may not work on mobile) - and click on the button to add it
 
 ### 3. CONNECT to OpenSea
 1. navigate to https://opensea.io/account
