@@ -30,7 +30,9 @@ This page is a help file only. It does not provide the instructions to complete 
 1. navigate to https://opensea.io/account
 2. select MetaMask
 3. sign the message to authenticate your account
-4. ![image](https://user-images.githubusercontent.com/104967421/167430329-a5220eb3-88a0-4e01-8d59-7f703676a69b.png)
+4. *your new NFT may be in the 'hidden' tab in your metamask profile.*
+5. ![image](https://user-images.githubusercontent.com/104967421/167430329-a5220eb3-88a0-4e01-8d59-7f703676a69b.png)
+6. 
 
 **[NAVIGATE BACK TO INSTRUCTIONS](/cryptoTools)**
 
