@@ -29,24 +29,18 @@ While there are numerous security implications of self-custodying valuable token
 
 ## Scenario 
 
-The management of Crypto Tools Pty Ltd found out about the toolUnion.  They were not impressed. Crypto Tools Pty Ltd have unsuccessfully deployed their considerable treasury of BUCKS to fund a union busting program. 
+The management of Crypto Tools Pty Ltd found out about the toolUnion.  They have been unsuccessfully deploying their considerable treasury of BUCKS to pay for union busting programs. 
 
-You hear that the shareholders of Crypto Tools Pty Ltd will be moving to terminate all employees who joined the toolUnion. The company's shares are ERC20 fungible tokens.  will likely hold a vote on the issue soon.  . 
+The shareholders of Crypto Tools Pty Ltd are fed up. You hear they will be moving to terminate all employees who joined the toolUnion DAO.  The company's shares are ERC20 fungible tokens. The shares trade permissionlessly with the ticker 'TOOL' on public markets. 
 
-You need to coordinate with the other members of toolUnion DAO to do something about Crypto Tools Pty Ltd!  You will deploy your treasury of BUCKS   
-
-You will need to deploy  BUCKS and cryptoTool NFTs earned during Part I of the workshop,  career with Crypto Tools Pty Ltd, you will earn the following fungible and non-fungible tokens: 
-
-1. **BUCKS** -- a (ficticious) currency in the form of an [ERC20 fungible token](https://ethereum.org/en/developers/docs/standards/tokens/erc-20/){:target="_blank"}.  You will earn BUCKS as you progress through the employment levels. 
-
-2. **cryptoTool NFTs** -- a (fictitious) proof of employment credentials held by employees of Crypto Tools Pty Ltd.  The credentials are in the form of an [ERC-721 non-fungible token](https://ethereum.org/en/developers/docs/standards/tokens/erc-721/). You will receive your cryptoTools NFT after completing Level 1. 
+You need to coordinate with the other members of toolUnion DAO to do something about Crypto Tools Pty Ltd!  
 
 *All tokens are entirely valueless.* 
 
 ## Tasks and Exercises 
 
-### 🧰 Level 0 - Opening the Tool Box
-You want to apply for a role with Crypto Tools Pty Ltd.  Employees are required to have their own tools. You must install the mobile versions of 'Metamask' and 'Discord' and prove you have the basic tools for the job. 
+### 🧰 Level 0 - Cleaning House
+You find out that one member of the toolUnion DAO tricked their way into receiving 
 
 **Skills**: generating accounts and addresses with non-custodial wallets, receiving fungible tokens, participating in an online community.
 
